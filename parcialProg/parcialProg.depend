@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652705689 source:d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcialprog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
